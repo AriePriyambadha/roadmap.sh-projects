@@ -36,3 +36,7 @@ Kumpulan project latihan dari [roadmap.sh](https://roadmap.sh/projects/frontend)
 ## Advanced
 
 24. [24hr Story Feature](./frontend-projects/24hr-story-feature)
+
+## Projects List
+
+[Image Grid Layout](https://roadmap.sh/projects/image-grid)
